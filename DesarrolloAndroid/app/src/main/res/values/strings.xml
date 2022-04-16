@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">beduApp</string>
+    <string name="hello_text">Hola, esta es la sesion 2</string>
+    <string name="accept_buttom">Aceptar</string>
+    <string name="texto_mostrado">Le han dado click al boton</string>
+</resources>
